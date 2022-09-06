@@ -1,3 +1,3 @@
-module github.com/backmap/golang/DSA
+module github.com/gobackmap/DSA
 
 go 1.19
