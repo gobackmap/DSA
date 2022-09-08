@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/backmap/golang/DSA/chapter01/bridge"
+	"github.com/goplateau/DSA/chapter01/bridge"
 )
 
 type IDrawShape interface {
