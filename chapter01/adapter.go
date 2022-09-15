@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/goplateau/DSA/chapter01/adapter"
+	"github.com/gobeen/DSA/chapter01/adapter"
 )
 
 // Iprocess interface

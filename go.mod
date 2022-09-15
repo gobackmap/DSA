@@ -1,3 +1,3 @@
-module github.com/goplateau/DSA
+module github.com/gobeen/DSA
 
 go 1.19
